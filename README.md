@@ -51,5 +51,5 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
