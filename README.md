@@ -46,9 +46,9 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 
 ## Certifications
 <div>
-<img src="https://www.credly.com/badges/158ce71a-f6aa-4f93-b1ab-bbd42693d0d3/public_url" />
-<img src="https://www.credly.com/badges/c143e2f2-a5a4-41be-86d0-8e57f0b20a64/public_url" />
-<img src="https://www.credly.com/badges/af515f2b-fea3-4e5f-9efb-0c51678bab66/public_url" />
+<a herf"https://www.credly.com/badges/158ce71a-f6aa-4f93-b1ab-bbd42693d0d3/public_url" />
+<a href"="https://www.credly.com/badges/c143e2f2-a5a4-41be-86d0-8e57f0b20a64/public_url" />
+<a href="https://www.credly.com/badges/af515f2b-fea3-4e5f-9efb-0c51678bab66/public_url" />
 </div>
 
 ## Projects
