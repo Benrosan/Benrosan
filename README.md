@@ -1,12 +1,9 @@
 # Hello, I'm Ben
 <a href="https://www.linkedin.com/in/benrosan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I'm an IT professional with one year of experience looking to transition into the field of Cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm currently looking to join a new team as a Security Operations Center (SOC) Tier 1 Analyst.
 
