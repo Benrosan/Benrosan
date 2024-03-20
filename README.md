@@ -28,13 +28,12 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh%20Agent-blue?style=for-the-badge&logo=proxmox" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/Wazuh-blue?style=for-the-badge&logo=proxmox" />)
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-blue?style=for-the-badge&logo=proxmox" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
