@@ -7,32 +7,34 @@ I'm an IT professional with one year of experience looking to transition into th
 
 I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm currently looking to join a new team as a Security Operations Center (SOC) Tier 1 Analyst.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>|
+| Packet Capture and Analysis with Wireshark    | <a href="https://google.com">Packet Capture Lab</a>
+| Linux Upskill Challenge                       | <a href="https://google.com">Linux Upskill Challenge</a>
 
+## Tools & Competencies
 
-## Tools
-
-### Network
+### System Administration
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-lightgrey?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=%230078D4" />
+    <img src="https://img.shields.io/badge/Active%20Directory-lightgrey?style=for-the-badge&logo=windows10&logoColor=white&labelColor=%230078D6" />
 </div>
 
-### Endpoint
+### OS
 <div>
-    <img src="https://img.shields.io/badge/Wazuh%20Agent-blue?style=for-the-badge&logo=proxmox" />
+    <img src="https://img.shields.io/badge/Proxmox-lightgrey?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=%23E57000" />
+    <img src="https://img.shields.io/badge/Microsoft%20Windows-lightgrey?style=for-the-badge&logo=windows11&labelColor=%230078D4" />
+    <img src="https://img.shields.io/badge/Debian-lightgrey?style=for-the-badge&logo=debian&labelColor=%23A81D33" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/Wazuh-blue?style=for-the-badge&logo=proxmox" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-lightgrey?style=for-the-badge&logo=foobar2000&logoColor=white&labelColor=%232C4AA8" />
+    <img src="https://img.shields.io/badge/Elastic-lightgrey?style=for-the-badge&logo=elastic&logoColor=white&labelColor=%23005571" />
 </div>
 
 ## Certifications
@@ -43,6 +45,3 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 <a href="https://www.credly.com/badges/af515f2b-fea3-4e5f-9efb-0c51678bab66/public_url" />A+</a>
     
 </div>
-
-## Projects
-- <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>
