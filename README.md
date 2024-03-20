@@ -8,7 +8,6 @@ I'm an IT professional with one year of experience looking to transition into th
 I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm currently looking to join a new team as a Security Operations Center (SOC) Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,7 +26,6 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/Wazuh%20Agent-blue?style=for-the-badge&logo=proxmox" />
 </div>
 
@@ -48,4 +46,3 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 
 ## Projects
 - <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
