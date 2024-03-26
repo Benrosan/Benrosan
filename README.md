@@ -12,7 +12,6 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>|
 | Packet Capture and Analysis with Wireshark    | <a href="https://github.com/Benrosan/PCAP_Lab">Packet Capture Lab</a>|
 | Linux Upskill Challenge                       | <a href="https://google.com">Linux Upskill Challenge</a>
 
