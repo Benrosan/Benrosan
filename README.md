@@ -13,6 +13,7 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Benrosan/Detection-Lab">Detection Lab</a>|
 | Packet Capture and Analysis with Wireshark    | <a href="https://github.com/Benrosan/PCAP_Lab">Packet Capture Lab</a>|
+| Packet Capture #2 and Analysis with Wireshark | <a href="https://github.com/Benrosan/PCAP-Lab-2">Packet Capture Lab 2</a>|
 | Linux Upskill Challenge                       | <a href="https://github.com/Benrosan/Linux_Upskill">Linux Upskill Challenge</a>
 
 ## Tools & Competencies
