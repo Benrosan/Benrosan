@@ -35,6 +35,7 @@ I'm a lifelong IT enthusiast with a passion for solving complex problems. I'm cu
 <div>
     <img src="https://img.shields.io/badge/Wazuh-lightgrey?style=for-the-badge&logo=foobar2000&logoColor=white&labelColor=%232C4AA8" />
     <img src="https://img.shields.io/badge/Elastic-lightgrey?style=for-the-badge&logo=elastic&logoColor=white&labelColor=%23005571" />
+    <img src="https://img.shields.io/badge/Splunk-lightgrey?style=for-the-badge&logo=splunk&logoColor=white&labelColor=%23FF574D" />
 </div>
 
 ## Certifications
